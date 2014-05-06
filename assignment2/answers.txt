@@ -1,0 +1,5 @@
+The required space for this data structure is static! It is whatever you set the value Q_LIMIT to plus 1.
+
+My number in transit seems REALLY high. I am not sure if this is a mistake in the code itself or a misconception on my part.
+
+NOTE: log provides a detailed log of events
